@@ -10,7 +10,7 @@ This past year, I decided to take the plunge, accelerate my learning, and dedica
 
 ## My Projects
 
-### + AIM :chart_with_upwards_trend: :
+### AIM :chart_with_upwards_trend: :
 
 A mobile-first full-stack application that allows users to create daily goals, complete goals once a day, and track their overall progress.
 
@@ -20,7 +20,7 @@ A mobile-first full-stack application that allows users to create daily goals, c
 
 
 
-### + NBA RANKER :basketball: :
+### NBA RANKER :basketball: :
 
 A mobile-first AJAX application created to allow users to rank NBA teams and players, and also view NBA player stats in real-time.
 
