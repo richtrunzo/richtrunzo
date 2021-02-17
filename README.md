@@ -1,4 +1,4 @@
-## About Me
+## :wave:
 
 I'm a full-stack software engineer looking for an opportunity within the software development industry.
 
