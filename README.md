@@ -8,7 +8,7 @@ This past year, I decided to take the plunge, accelerate my learning, and dedica
 
 ## Technology I Use
 
-## My Projects
+<details>## My Projects</details>
 
 ### AIM :chart_with_upwards_trend: :
 
