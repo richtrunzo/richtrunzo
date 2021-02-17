@@ -10,22 +10,23 @@ This past year, I decided to take the plunge, accelerate my learning, and dedica
 
 ## My Projects
 
-### AIM 
-
-[Live deployment on Heroku](https://aim-goal-setting.herokuapp.com/)
-
-[Github Repo](https://github.com/richtrunzo/aim-goal-setting-app)
+### + AIM :chart_with_upwards_trend: :
 
 A mobile-first full-stack application that allows users to create daily goals, complete goals once a day, and track their overall progress.
 
++ [Live deployment on Heroku](https://aim-goal-setting.herokuapp.com/)
 
-### NBA RANKER 
++ [Github Repo](https://github.com/richtrunzo/aim-goal-setting-app)
+
+
+
+### + NBA RANKER :basketball: :
 
 A mobile-first AJAX application created to allow users to rank NBA teams and players, and also view NBA player stats in real-time.
 
-[Live demo](https://richtrunzo.github.io/nba-ranker/)
++ [Live demo](https://richtrunzo.github.io/nba-ranker/)
 
-[Github Repo](https://github.com/richtrunzo/nba-ranker)
++ [Github Repo](https://github.com/richtrunzo/nba-ranker)
 
 ## How to reach me
 
