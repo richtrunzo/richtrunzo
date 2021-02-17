@@ -1,12 +1,12 @@
-## :wave:
+### :wave:
 
-I'm a full-stack software engineer looking for an opportunity within the software development industry.
+My name is Rich and I'm a full-stack software engineer looking for an opportunity within the software development industry.
 
 In early 2019 I began the self-taught path to becoming a software developer and quickly found that I have a passion for it - learning through online tutorials and building small projects in my free time.
 
 This past year, I decided to take the plunge, accelerate my learning, and dedicate myself to software development. I just finished up a 15-week coding bootcamp where I committed 10-12 hours a day to hone my development skills, learn new technologies, and build full-stack projects.
 
-## Technology I Use
+### Technology I Use
 
 <img align="left" alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
@@ -31,9 +31,9 @@ This past year, I decided to take the plunge, accelerate my learning, and dedica
 
 <br></br>
 
-## My Projects
+### My Projects
 
-### AIM :chart_with_upwards_trend: :
+#### AIM :chart_with_upwards_trend: :
 
 A mobile-first full-stack application that allows users to create daily goals, complete goals once a day, and track their overall progress.
 
@@ -43,7 +43,7 @@ A mobile-first full-stack application that allows users to create daily goals, c
 
 
 
-### NBA RANKER :basketball: :
+#### NBA RANKER :basketball: :
 
 A mobile-first AJAX application created to allow users to rank NBA teams and players, and also view NBA player stats in real-time.
 
@@ -51,7 +51,7 @@ A mobile-first AJAX application created to allow users to rank NBA teams and pla
 
 + [Github Repo](https://github.com/richtrunzo/nba-ranker)
 
-## How to reach me
+### How to reach me
 
 I'm always open to connect with anyone in the industry to chat, you can reach me at my email address below, or on [LinkedIn](https://www.linkedin.com/in/richardtrunzo/)
 
