@@ -13,7 +13,7 @@ I'm always open to connect with anyone in the industry to chat, you can reach me
 
 - :mailbox_with_mail: richtrunzo@gmail.com 
 
-- [Check out my resume!](https://drive.google.com/file/d/16R-kNlC_lWmyF8PwlwXHJ_I3zVGq-3J8/view?usp=sharing)
+- [Check out my resume!](https://drive.google.com/file/d/1wnwxHDPUUkVlSbNS4LkfLaV9EKuYORLu/view?usp=sharing)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richtrunzo&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
