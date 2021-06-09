@@ -2,18 +2,10 @@
 
 My name is Rich, currently: Software Engineer, prev: Public Relations.
 
-In early 2019 I began the self-taught path to becoming a software developer and quickly found that I have a passion for it - learning through online tutorials and building small projects in my free time.
-
-This past year, I decided to take the plunge, accelerate my learning, and dedicate myself full-time to software development. I graduated from a coding bootcamp where I spent 10-12 hours a day to hone my development skills, learn new technologies, and build full-stack projects.
-
-I'm always open to connect with anyone in the industry to chat, you can reach me via LinkedIn or my email address below. 
-
 
 - [LinkedIn](https://www.linkedin.com/in/richardtrunzo/)
 
 - :mailbox_with_mail: richtrunzo@gmail.com 
-
-- [Check out my resume!](https://drive.google.com/file/d/1wnwxHDPUUkVlSbNS4LkfLaV9EKuYORLu/view?usp=sharing)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richtrunzo&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
